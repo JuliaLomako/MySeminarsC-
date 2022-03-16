@@ -1,0 +1,15 @@
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.csproj.AssemblyReference.cache
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.AssemblyInfoInputs.cache
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.AssemblyInfo.cs
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.csproj.CoreCompileInputs.cache
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/bin/Debug/net6.0/Zadacha_3
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/bin/Debug/net6.0/Zadacha_3.deps.json
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/bin/Debug/net6.0/Zadacha_3.runtimeconfig.json
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/bin/Debug/net6.0/Zadacha_3.dll
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/bin/Debug/net6.0/Zadacha_3.pdb
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.dll
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/refint/Zadacha_3.dll
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.pdb
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/Zadacha_3.genruntimeconfig.cache
+/Users/julialomako/MyWorkHome_C#/Zadacha_3/obj/Debug/net6.0/ref/Zadacha_3.dll
