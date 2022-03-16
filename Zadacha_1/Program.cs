@@ -4,12 +4,10 @@ int numA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе целое число ");
 int numB = Convert.ToInt32(Console.ReadLine());
 
-if(numA > numB)
-{
-        Console.WriteLine("Максимальное");
-}
+int max = numA;
 
-else 
-{
-    Console.WriteLine("Минимальоне");
-}
+if(numA > max) max = numA;
+if(numB > max) max = numB;
+
+Console.Write("Максимальное = ");
+Console.Write(max);
