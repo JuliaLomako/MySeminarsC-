@@ -1,19 +1,15 @@
-﻿//Задача номер 4 (по списку)
+﻿//Павел, добрый вечер! в настоящий момент в процессе решения))) 
+//мучаю уже несколько часов две задачи
 
-Console.Write("Введите первое целое число ");
-int numA = Convert.ToInt32(Console.ReadLine());
+//Задача номер 4 (по списку)
 
-Console.Write("Введите второе целое число ");
-int numB = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите натуральное число ");
+int number = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите третье целое число ");
-int numС = Convert.ToInt32(Console.ReadLine());
+int number2 = number / 2;
 
-int max = numA;
-
-if(numA > max) max = numA;
-if(numB > max) max = numB;
-if(numС > max) max = numС;
-
-Console.Write("Максимальное = ");
-Console.Write(max);
+while(number2 <= 0)
+{
+    Console.WriteLine(number2);
+    number2++;
+}
