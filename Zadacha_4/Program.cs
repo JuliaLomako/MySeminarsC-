@@ -8,7 +8,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 int number2 = number / 2;
 
-while(number2 <= 0)
+while(number2 <= number)
 {
     Console.WriteLine(number2);
     number2++;
