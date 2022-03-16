@@ -11,5 +11,5 @@ int number2 = number / 2;
 while(number2 <= number)
 {
     Console.WriteLine(number2);
-    number2++;
+    number2+=2;
 }
