@@ -6,8 +6,10 @@
 Console.Write("Введите любое целое число ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-if(number = number / number)
+if(number <= 0 && number / 2);
+
 Console.WriteLine("Число является чётным");
 
-else
+if(number > 0);
+
 Console.WriteLine("Число является нечётным");
